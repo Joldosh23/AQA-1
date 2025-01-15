@@ -22,6 +22,8 @@ public class Main {
 //5)  git add .
 //6)  git commit -m "Addem some changes"
 // 7)  git push origin master
+      //  git push origin main
+
 
     }
 }
