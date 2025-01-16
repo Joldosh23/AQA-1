@@ -24,6 +24,8 @@ public class Main {
 // 7)  git push origin master
       //  git push origin main
 
+//joli19900423
+       // git remote set-url origin https://<Joldosh>joldosh5577@gmail.com/Joldosh23/AQA-1.git
 
     }
 }
